@@ -146,6 +146,7 @@ img {
 }
 
 .navbar-custom .navbar-brand {
+  font-family: monospace;
   line-height: 1.5;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
